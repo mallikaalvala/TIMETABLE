@@ -46,7 +46,7 @@ st.markdown("""
 <div class="title-box">
   <h2 style="margin:0">📅 B.Pharm Automatic Exam Timetable Generator</h2>
   <p style="margin:4px 0 0 0;opacity:0.85">
-    G.Pulla Reddy College of Pharmacy | PCI Regulations 2014
+    G.Pulla Reddy College of Pharmacy 
   </p>
 </div>
 """, unsafe_allow_html=True)
